@@ -1,0 +1,12 @@
+c:\users\элина\documents\visual studio 2015\Projects\RGR_Leonova2\RGR_Leonova2\bin\Debug\RGR_Leonova2.exe.config
+c:\users\элина\documents\visual studio 2015\Projects\RGR_Leonova2\RGR_Leonova2\bin\Debug\RGR_Leonova2.exe
+c:\users\элина\documents\visual studio 2015\Projects\RGR_Leonova2\RGR_Leonova2\bin\Debug\RGR_Leonova2.pdb
+c:\users\элина\documents\visual studio 2015\Projects\RGR_Leonova2\RGR_Leonova2\obj\Debug\RGR_Leonova2.csprojResolveAssemblyReference.cache
+c:\users\элина\documents\visual studio 2015\Projects\RGR_Leonova2\RGR_Leonova2\obj\Debug\RGR_Leonova2.Form1.resources
+c:\users\элина\documents\visual studio 2015\Projects\RGR_Leonova2\RGR_Leonova2\obj\Debug\RGR_Leonova2.Properties.Resources.resources
+c:\users\элина\documents\visual studio 2015\Projects\RGR_Leonova2\RGR_Leonova2\obj\Debug\RGR_Leonova2.csproj.GenerateResource.Cache
+c:\users\элина\documents\visual studio 2015\Projects\RGR_Leonova2\RGR_Leonova2\obj\Debug\RGR_Leonova2.exe
+c:\users\элина\documents\visual studio 2015\Projects\RGR_Leonova2\RGR_Leonova2\obj\Debug\RGR_Leonova2.pdb
+E:\Универ. Работы\6 семестр\Разработка и стандартизация\РГР\RGR_Leonova2\RGR_Leonova2\bin\Debug\RGR_Leonova2.exe.config
+E:\Универ. Работы\6 семестр\Разработка и стандартизация\РГР\RGR_Leonova2\RGR_Leonova2\obj\Debug\RGR_Leonova2.exe
+E:\Универ. Работы\6 семестр\Разработка и стандартизация\РГР\RGR_Leonova2\RGR_Leonova2\obj\Debug\RGR_Leonova2.pdb
